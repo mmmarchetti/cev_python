@@ -17,7 +17,7 @@ while True:
 print('-=-'*10)
 print('cod  nome                gols            total')
 for jogador in time:
-    print(f'     {jogador["nome"]}        {jogador["gols"]}      {sum(jogador["gols"])}')
+    print(f'{time.index(jogador)} {jogador["nome"]} {jogador["gols"]} {sum(jogador["gols"])}')
 
 while True:
     cont = int(input('Mostrar dados de qual jogador? \n[999] para parar:'))
@@ -25,7 +25,7 @@ while True:
         break
     try:
         for gol in time[cont]['gols']:
-            print(f'No jogo fez {gol}')
+            print(f'No jogo {time[cont]["gols"].index(gol)} fez {gol}')
 
     except IndexError:
         print('Digite um jogador válido')
