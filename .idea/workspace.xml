@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a34c7052-4c7e-4f2e-bcb0-06de78cc0a8d" name="Default Changelist" comment="update files">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe 096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exe100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe078 (2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe095.py" beforeDir="false" afterPath="$PROJECT_DIR$/exe095.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe74.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe75.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe76.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe77.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe89.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe91 teste.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe91.py" beforeDir="false" />
+    <list default="true" id="a34c7052-4c7e-4f2e-bcb0-06de78cc0a8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exe101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +24,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exe100.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/exe103.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -56,7 +49,6 @@
       <list>
         <option value="$PROJECT_DIR$/exe090.py" />
         <option value="$PROJECT_DIR$/exe091.py" />
-        <option value="$PROJECT_DIR$/aula.py" />
         <option value="$PROJECT_DIR$/exe91.py" />
         <option value="$PROJECT_DIR$/exe91 teste.py" />
         <option value="$PROJECT_DIR$/exe094.py" />
@@ -66,6 +58,10 @@
         <option value="$PROJECT_DIR$/exe098.py" />
         <option value="$PROJECT_DIR$/exe099.py" />
         <option value="$PROJECT_DIR$/exe100.py" />
+        <option value="$PROJECT_DIR$/aula.py" />
+        <option value="$PROJECT_DIR$/exe101.py" />
+        <option value="$PROJECT_DIR$/102.py" />
+        <option value="$PROJECT_DIR$/exe103.py" />
       </list>
     </option>
   </component>
@@ -80,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,7 +88,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,8 +111,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe099">
-    <configuration name="exe 096" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.exe103">
+    <configuration name="102" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe 096.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe102.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe095" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +147,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe095.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe097" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,7 +169,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe097.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe098" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe101" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +191,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe098.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe101.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exe099" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exe103" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +213,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe099.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe103.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +223,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.exe095" />
-      <item itemvalue="Python.exe 096" />
-      <item itemvalue="Python.exe097" />
-      <item itemvalue="Python.exe098" />
-      <item itemvalue="Python.exe099" />
+      <item itemvalue="Python.exe100" />
+      <item itemvalue="Python.aula" />
+      <item itemvalue="Python.exe101" />
+      <item itemvalue="Python.102" />
+      <item itemvalue="Python.exe103" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exe099" />
-        <item itemvalue="Python.exe098" />
-        <item itemvalue="Python.exe097" />
-        <item itemvalue="Python.exe 096" />
-        <item itemvalue="Python.exe095" />
+        <item itemvalue="Python.exe103" />
+        <item itemvalue="Python.102" />
+        <item itemvalue="Python.exe101" />
+        <item itemvalue="Python.aula" />
+        <item itemvalue="Python.exe100" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +257,8 @@
       <workItem from="1547123839015" duration="55000" />
       <workItem from="1547125878571" duration="7000" />
       <workItem from="1547160394298" duration="5000" />
-      <workItem from="1559496064157" duration="8539000" />
+      <workItem from="1559496064157" duration="9342000" />
+      <workItem from="1559582672350" duration="3313000" />
     </task>
     <task id="LOCAL-00001" summary="update files">
       <created>1559499757945</created>
@@ -270,27 +267,41 @@
       <option name="project" value="LOCAL" />
       <updated>1559499757945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="98">
+      <created>1559504831470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559504831470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exe">
+      <created>1559505407387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559505407387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22406000" />
+    <option name="totallyTimeSpent" value="26522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12878788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13030303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34401348" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34401348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39966273" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32715008" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32715008" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.4684838" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32879046" />
@@ -308,13 +319,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update files" />
+    <MESSAGE value="98" />
+    <MESSAGE value="exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="exe" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cev_python$exe101.coverage" NAME="exe101 Coverage Results" MODIFIED="1559588187619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe_096.coverage" NAME="exe 096 Coverage Results" MODIFIED="1559502656045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe34.coverage" NAME="exe34 Coverage Results" MODIFIED="1559501311277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe098.coverage" NAME="exe098 Coverage Results" MODIFIED="1559504074756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$exe103.coverage" NAME="exe103 Coverage Results" MODIFIED="1559589249223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$exe100.coverage" NAME="exe100 Coverage Results" MODIFIED="1559505382828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe099.coverage" NAME="exe099 Coverage Results" MODIFIED="1559504743030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$aula.coverage" NAME="aula Coverage Results" MODIFIED="1559583472654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$102.coverage" NAME="102 Coverage Results" MODIFIED="1559588663302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe097.coverage" NAME="exe097 Coverage Results" MODIFIED="1559503030810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe095.coverage" NAME="exe095 Coverage Results" MODIFIED="1559502357016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -343,30 +361,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exe91 teste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exe91.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/exe91 teste.py" />
+    <entry file="file://$PROJECT_DIR$/exe91.py" />
     <entry file="file://$PROJECT_DIR$/exe094.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
@@ -415,7 +411,39 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exe100.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe102.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe103.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
