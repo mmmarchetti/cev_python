@@ -1,7 +1,9 @@
 from exercises.exe109.moeda import Calculo
+from exercises.exe108.moeda_ptbr import formata_moeda as fm
 
 p = float(input('Digite o preço: R$'))
-print(f'A metade de {p} é {Calculo(p, False).metade()}')
-print(f'O dobro de {p} é {Calculo(p).dobro()}')
-print(f'Aumentando 10% temos {Calculo(p).aumentar(10)}')
-print(f'Diminuindo 13%, temos {Calculo(p).diminuir(13)}')
+conta = Calculo(p, True)
+print(f'A metade de {fm(p)} é {conta.metade()}')
+print(f'O dobro de {fm(p)} é {conta.dobro()}')
+print(f'Aumentando 10% temos {conta.aumentar(10)}')
+print(f'Diminuindo 13%, temos {conta.diminuir(13)}')
