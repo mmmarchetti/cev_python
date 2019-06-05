@@ -2,72 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a34c7052-4c7e-4f2e-bcb0-06de78cc0a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/exe104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/exe105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/marchetti.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exe108/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exe108/moeda_ptbr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exe109/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exe109/moeda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/aula.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe 096.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe 096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe024.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe025.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe027.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe028.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe030.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe031.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe032.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe033.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe034.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe035.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe036.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe037.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe038.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe039.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe040.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe040.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe041.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe042.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe042.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe043.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe044.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe044.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe045.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe045.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe047.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe048.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe051.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe051.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe055.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe055.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe056.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe056.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe057.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe058.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe059.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe060.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe060.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe061.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe061.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe063.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe063.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe064.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe064.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe065.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe065.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe066.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe066.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe067.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe067.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe068.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe069.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe069.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe070.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe070.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe071.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe071.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe072.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe072.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe072_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe072_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe073.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe073.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe074.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe074.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe075-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe075-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe075.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe076.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe076.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe077.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe077.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe078.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe078.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe079.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe079.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe080.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe080.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe090.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe090.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe091.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe091.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe094.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe094.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe095.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe095.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe097.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe098.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe099.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe100.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe101.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe102.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe103.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exe103.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,12 +23,21 @@
     <SUITE FILE_PATH="coverage/Curso_em_Video$exe91_teste.coverage" NAME="exe91 teste Coverage Results" MODIFIED="1546639653076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercises/exe105.py">
+        <entry file="file://$PROJECT_DIR$/exercises/exe109/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+            <state relative-caret-position="51">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/exe109/moeda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -125,6 +74,13 @@
         <option value="$PROJECT_DIR$/exe103.py" />
         <option value="$PROJECT_DIR$/exe104.py" />
         <option value="$PROJECT_DIR$/exercises/exe105.py" />
+        <option value="$PROJECT_DIR$/exercises/exe106.py" />
+        <option value="$PROJECT_DIR$/exercises/exe107/main.py" />
+        <option value="$PROJECT_DIR$/exercises/exe107/moeda.py" />
+        <option value="$PROJECT_DIR$/exercises/exe108/moeda_ptbr.py" />
+        <option value="$PROJECT_DIR$/exercises/exe108/main.py" />
+        <option value="$PROJECT_DIR$/exercises/exe109/moeda.py" />
+        <option value="$PROJECT_DIR$/exercises/exe109/main.py" />
       </list>
     </option>
   </component>
@@ -139,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,23 +107,35 @@
               <item name="cev_python" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cev_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cev_python" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="exe109" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercises/exe109" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises/exe109" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises/exe107" />
+      <recent name="$PROJECT_DIR$/exercises/exe109" />
       <recent name="$PROJECT_DIR$/exercises" />
     </key>
   </component>
@@ -184,73 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exe105">
-    <configuration name="102" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso em Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/exe102.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exe101" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso em Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/exe101.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exe103" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Curso em Video" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/exe103.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="exe104" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Curso em Video" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,20 +196,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso em Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises/exe108" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/exe108/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso em Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises/exe109" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/exe109/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Curso em Video" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises/exe107" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/exe107/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.exe101" />
-      <item itemvalue="Python.102" />
-      <item itemvalue="Python.exe103" />
       <item itemvalue="Python.exe104" />
       <item itemvalue="Python.exe105" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.exe105" />
         <item itemvalue="Python.exe104" />
-        <item itemvalue="Python.exe103" />
-        <item itemvalue="Python.102" />
-        <item itemvalue="Python.exe101" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +299,8 @@
       <workItem from="1547160394298" duration="5000" />
       <workItem from="1559496064157" duration="9342000" />
       <workItem from="1559582672350" duration="3668000" />
-      <workItem from="1559683487216" duration="3091000" />
+      <workItem from="1559683487216" duration="3422000" />
+      <workItem from="1559692471967" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="update files">
       <created>1559499757945</created>
@@ -362,17 +330,37 @@
       <option name="project" value="LOCAL" />
       <updated>1559589504933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new exe">
+      <created>1559686634890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559686634890</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new exe">
+      <created>1559686729806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559686729806</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercises">
+      <created>1559693495079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559693495079</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29968000" />
+    <option name="totallyTimeSpent" value="32558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1370" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1310606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13333334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -404,7 +392,8 @@
     <MESSAGE value="98" />
     <MESSAGE value="exe" />
     <MESSAGE value="new exe" />
-    <option name="LAST_COMMIT_MESSAGE" value="new exe" />
+    <MESSAGE value="exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercises" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cev_python$exe_096.coverage" NAME="exe 096 Coverage Results" MODIFIED="1559502656045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -415,11 +404,14 @@
     <SUITE FILE_PATH="coverage/cev_python$exe105.coverage" NAME="exe105 Coverage Results" MODIFIED="1559686542448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/cev_python$exe095.coverage" NAME="exe095 Coverage Results" MODIFIED="1559502357016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe104.coverage" NAME="exe104 Coverage Results" MODIFIED="1559684621551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1559694201177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/exe108" />
     <SUITE FILE_PATH="coverage/cev_python$exe101.coverage" NAME="exe101 Coverage Results" MODIFIED="1559588187619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe103.coverage" NAME="exe103 Coverage Results" MODIFIED="1559589249223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$exe100.coverage" NAME="exe100 Coverage Results" MODIFIED="1559505382828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cev_python$aula.coverage" NAME="aula Coverage Results" MODIFIED="1559583472654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$main.coverage" NAME="main Coverage Results" MODIFIED="1559693463541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/exe107" />
     <SUITE FILE_PATH="coverage/cev_python$exe097.coverage" NAME="exe097 Coverage Results" MODIFIED="1559503030810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cev_python$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1559694713250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/exe109" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/exercises/exe025.py">
@@ -467,7 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/exe 096.py">
+    <entry file="file://$PROJECT_DIR$/exercises/exe096.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="78" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
@@ -541,6 +533,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/exe106.py" />
+    <entry file="file://$PROJECT_DIR$/exercises/exe107/moeda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/exe107/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/exe108/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/exe108/moeda_ptbr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/exe109/moeda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/exe109/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
